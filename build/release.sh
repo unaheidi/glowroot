@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Building now"
+
 # verify prerequisites
 
 git diff --exit-code > /dev/null
